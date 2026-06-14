@@ -1,0 +1,22 @@
+# binaries
+bin/
+tasks
+
+# windows binaries
+*.exe
+
+# Go artifacts
+*.test
+*.out
+coverage.out
+
+# IDE
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# local task database
+.cli-tasks.json
